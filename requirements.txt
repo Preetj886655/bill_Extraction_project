@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+requests
+pdf2image
+pytesseract
+opencv-python-headless
+numpy
+fuzzywuzzy[speedup]
+Pillow
